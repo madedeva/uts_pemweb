@@ -14,7 +14,6 @@
        <div class="menu">
        <li><a href="<?= BASEURL ?>">Home</a></li>
          <li><a href="<?= BASEURL ?>">Mahasiswa</a></li>
-         <li><a href="<?= BASEURL ?>">About</a></li>
        </div>
      </ul>
 </nav>
