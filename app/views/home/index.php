@@ -3,7 +3,7 @@
         Data Mahasiswa Fakultas Teknik dan Kejuruan
     </h3>
     <br>
-    <table class="table1" border="1">
+    <table class="table1">
 		<tr>
 			<th>Nama</th>
 			<th>NIM</th>
@@ -12,7 +12,7 @@
             <th>Aksi</th>
 		</tr>
 		<tr>
-			<td>Deva Kerti Wijaya</td>
+			<td>Deva Kerti Wijaya</td>  
 			<td>2015051012</td>
 			<td>Teknik Informatika</td>
 			<td>Pendidikan Teknik Informatika</td>

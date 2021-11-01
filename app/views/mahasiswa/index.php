@@ -1,7 +1,7 @@
 <?php Flasher::flash()?>
+<div class="container">
 <h3>Tambah Data Skp Mahasiswa</h3>
 <br>
-<div class="container">
   <form action="#">
     <div class="row">
       <div class="col-25">
